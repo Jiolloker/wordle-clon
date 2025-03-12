@@ -2,7 +2,7 @@
 
 A modern implementation of the popular word-guessing game Wordle, built with React and styled with Tailwind CSS. Features a responsive design, score tracking system, and animated feedback.
 
-![Wordle Clone Screenshot](screenshot.png)
+![Wordle Clone Screenshot](./src/assets/wordle-clon.jpg)
 
 ## Features
 
